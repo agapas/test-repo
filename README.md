@@ -75,7 +75,7 @@ Add some contributing notes
 
 ## License
 
-This project is licensed under the [licenceType] License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the [licenceType] License - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 
