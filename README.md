@@ -1,2 +1,2 @@
 # test-repo
-Just another repository for testing and practicing github...
+Just another repository for testing and practicing github
